@@ -13,7 +13,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/stefanstraeter/Testimonials_grid_section.git)
-- Live Site URL: [Live Demo](https://stefanstraeter.github.io/Four_card_feature_section/)
+- Live Site URL: [Live Demo]
 
 ## My process
 
@@ -48,5 +48,3 @@ Users should be able to:
 
 - GitHub: [stefanstraeter](https://github.com/stefanstraeter)
 - Frontend Mentor: [stefanstraeter](https://www.frontendmentor.io/profile/stefanstraeter)
-
-# Testimonials_grid_section
