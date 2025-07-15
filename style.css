@@ -39,7 +39,7 @@ body {
 }
 
 .wrapper {
-  max-width: 109rem;
+  max-width: 120rem;
   margin: 12rem clamp(3rem, 8vw, 10rem);
 }
 
