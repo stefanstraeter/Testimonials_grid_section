@@ -40,7 +40,7 @@ Users should be able to:
 
 #### Semantic & Scalable Code
 
-- Use of semantic <section>, <header>, <h1>, and <span> tags enhances accessibility.
+- Use of semantic `<section>`, `<header>`, `<h1>`, and `<span>` tags enhances accessibility.
 - CSS variables (--Grey-100, --Purple-500, etc.) centralize theme management.
 - Utility classes like .text-light and .text-dark improve readability and reduce repetition.
 
@@ -48,4 +48,5 @@ Users should be able to:
 
 - GitHub: [stefanstraeter](https://github.com/stefanstraeter)
 - Frontend Mentor: [stefanstraeter](https://www.frontendmentor.io/profile/stefanstraeter)
+
 # Testimonials_grid_section
