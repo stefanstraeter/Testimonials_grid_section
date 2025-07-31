@@ -16,6 +16,10 @@ Users should be able to:
 - **Solution URL:** [GitHub Repository](https://github.com/stefanstraeter/Testimonials_grid_section.git)
 - **Live Site URL:** [Live Demo](https://stefanstraeter.github.io/Testimonials_grid_section/)
 
+### Screenshot
+<img width="1543" height="946" alt="Testimonials Grid Section" src="https://github.com/user-attachments/assets/9d8b74fe-dd19-4802-9238-b8e1cb4b3c38" />
+
+
 ## My Process
 
 ### Built With
